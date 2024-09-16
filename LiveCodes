@@ -1,0 +1,14 @@
+[
+	{
+		"RewardType": "Currency",
+		"Code": "RELEASE",
+   		"AwardMessage": "Free Daily Spin!",
+
+		"Data": {
+			"Type": "DailySpins",
+			"Amount": 1
+		},
+
+		"ReedemOnce": true
+	}
+]
