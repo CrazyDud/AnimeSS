@@ -10,5 +10,17 @@
 		},
 
 		"ReedemOnce": true
+	},
+{
+		"RewardType": "Currency",
+		"Code": "GEMZ",
+   		"AwardMessage": "Free Diamonds!",
+
+		"Data": {
+			"Type": "Diamonds",
+			"Amount": 100
+		},
+
+		"ReedemOnce": true
 	}
 ]
