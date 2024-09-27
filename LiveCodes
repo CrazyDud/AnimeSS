@@ -23,4 +23,16 @@
 
 		"ReedemOnce": true
 	}
+{
+		"RewardType": "Booster",
+		"Code": "Map7",
+   		"AwardMessage": "Free Booster!",
+
+		"Data": {
+			"BoosterName": "DoubleLuck",
+			"Amount": 1
+		},
+
+		"ReedemOnce": true
+	}
 ]
