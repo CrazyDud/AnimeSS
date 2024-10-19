@@ -1,11 +1,12 @@
 {
-    "UpdateVersion": "Update 4!",
-    "UpdateName": "🎃 HALLOWEEN UPD!! Part 1",
+    "UpdateVersion": "Update 4.5!",
+    "UpdateName": "🎃 HALLOWEEN UPD!! Part 2",
     "UpdateContent": {
-        "1": "🎃 A BRAND NEW HALLOWEEN MAP TO COMPLETE!! img = rbxassetid://132968552768040",
-        "2": "🍬 NEW Event Exclusive Currency!",
-         "3": "⚔️ NEW Swords & Backpacks!!",
-        "4": "👻 NEW Spooky Machine! Limited Time Only!",
-        "5": "🦇🐶 Brand New Halloween Pets! "
+        "1": "🎃 BRAND NEW Game Mode: DUNGEONS!! img = rbxassetid://120888049002460",
+        "2": "⚔️Battle trhough infinite rooms that get harder each time!",
+        "3": "🍬 Grind for a lot of Candies!",
+         "4": "👻🦇 Grind for very rare halloween exclusive drops!!",
+        "5": "⏰ LIMITED TIME available only at halloween map!",
+        "6": "🥇 Conquer NEW event exclusive leaderboards!"
     }
 }
