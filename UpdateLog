@@ -1,12 +1,12 @@
 {
-    "UpdateVersion": "Update 4.5!",
-    "UpdateName": "🎃 HALLOWEEN UPD!! Part 2",
+    "UpdateVersion": "Update 5!",
+    "UpdateName": "💥MAP8 + QUESTS!",
     "UpdateContent": {
-        "1": "🎃 BRAND NEW Game Mode: DUNGEONS!! img = rbxassetid://120888049002460",
-        "2": "⚔️Battle trhough infinite rooms that get harder each time!",
-        "3": "🍬 Grind for a lot of Candies!",
-         "4": "👻🦇 Grind for very rare halloween exclusive drops!!",
-        "5": "⏰ Available from Map 4!",
-        "6": "🥇 Conquer NEW event exclusive leaderboards!"
+        "1": "🪦 NEW MAP Is out! Scary Graveyard img = rbxassetid://125240206752877",
+        "2": "🐾 NEW Pets",
+        "3": "🗡️ NEW Weapons & Backpacks!",
+        "4": "🧭 NEW QUESTS ADDED img = rbxassetid://73055296621834",
+        "5": "🧝 Talk to characters in some maps for rewarding quests!",
+        "6": "🥇 Beat all quests of a character to get permanent boosts!!"
     }
 }
