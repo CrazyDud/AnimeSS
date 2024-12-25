@@ -30,7 +30,7 @@
         "Boost": 0
     },
     "EventCurrency": {
-        "Active": false,
+        "Active": true,
         "EmojiCode": "🍬",
         "Multip": 2,
         "UseBoost": false,
